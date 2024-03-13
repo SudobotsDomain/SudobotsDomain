@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SudobotsDomain
+- 👋 Hi, welcome to @SudobotsDomain
 - 👀 I’m interested in software development and data analysis
 - 🌱 I’m currently learning computer programming and networking
 - 💞️ I’m looking to collaborate on various projects
